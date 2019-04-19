@@ -1,0 +1,1 @@
+D:\_Projects\CSharpTraining\VCSBS\Chapter 2\MathsOperators\MathsOperators\MathsOperators.csproj;arm
